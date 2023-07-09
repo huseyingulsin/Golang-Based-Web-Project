@@ -2,7 +2,7 @@
 
 I am starting my golang learning journey for my professional programming career.
 
-The main goal of this journey is to become a master at these specific topics in golang:
+The main goal of this repository is to become a master at these specific topics in golang:
 
 - channels
 - template caching
